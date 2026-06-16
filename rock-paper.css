@@ -1,5 +1,5 @@
  body{
-        background-color: black;
+        background-color: yellow;
         color: white;
 
       }
@@ -14,7 +14,7 @@
 
       }
       .move-button {
-  background-color: transparent;
+  background-color: black;
   border: 3px solid white;
   width: 120px;
   height: 120px;
